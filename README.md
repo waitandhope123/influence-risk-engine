@@ -43,3 +43,5 @@ The first goal is to get a transparent, reproducible scoring pipeline working fo
 ## License
 
 See `LICENSE`.
+
+For full design context and historical intent, see `docs/master_context.md`.
