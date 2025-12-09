@@ -231,9 +231,3 @@ and how it is most likely to break
 
 
 ---
-
-✅ At this point, the repository is **complete, documented, and usable**.
-
-If you want to stop here, you’re already in great shape.
-
-If you want one last optional polish, the only remaining high-value addition would be a very short **`docs/limitations.md`** explaining what the model deliberately does *not* do.
